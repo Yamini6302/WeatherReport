@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/weatherdb
+
+openweathermap:
+  api:
+    key: 0a4470bb692cc5668b74aab6269dc056
